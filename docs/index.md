@@ -69,10 +69,10 @@ The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.librar
 
 1. We will obtain the census boundary files from the [Census Geography website](https://www-statcan-gc-ca.myaccess.library.utoronto.ca/en/geography?MM=1). You can access the site through the previous link or any time through the [Statistics Canada Census website](https://www12-statcan-gc-ca.myaccess.library.utoronto.ca/census-recensement/index-eng.cfm), by clicking on the **Geography** tab.
     
-    **<img src='{{ '/assets/images/mapping_census_data_in_arcgispro_008.png' | relative_url }}' alt='Statistics Canada's census data homepage.' title='' width='100%' height='100%' />**
+    **<img src='{{ '/assets/images/mapping_census_data_in_arcgispro_008.png' | relative_url }}' alt="Statistics Canada's census data homepage." title='' width='100%' height='100%' />**
 2. Under **Spatial information products, click on Boundary Files**.
 
-    **<img src='{{ '/assets/images/mapping_census_data_in_arcgispro_009.png' | relative_url }}' alt='Statistics Canada's census geography page.' title='' width='100%' height='100%' />**
+    **<img src='{{ '/assets/images/mapping_census_data_in_arcgispro_009.png' | relative_url }}' alt="Statistics Canada's census geography page." title='' width='100%' height='100%' />**
 3. Under **Census Year, click on 2021.**
 
     **<img src='{{ '/assets/images/mapping_census_data_in_arcgispro_010.png' | relative_url }}' alt='Available Boundary files for census years.' title='' width='100%' height='100%' />**
