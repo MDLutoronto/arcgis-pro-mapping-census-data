@@ -208,3 +208,4 @@ Congratulations! You should now have a map exhibiting census data you pulled fr
 
 <img src='{{ '/assets/images/mapping_census_data_in_arcgispro_043_1.png' | relative_url }}' alt='Final map showing native mandarin speakers per census tract in the City of Toronto.' title='' width='816' height='1056' />
 
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro), [CHASS Census Analyzer](https://mdlutoronto.github.io/tutorials-search/?tool=CHASS+Census+Analyzer) \| **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
