@@ -6,6 +6,9 @@ created_date: 2024-02-09
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -16,7 +19,7 @@ This tutorial will cover how to download census data and census boundary files a
 Finding, Downloading, and Mapping Census Data
 ---------------------------------------------
 
-The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.library.utoronto.ca/census/) allows members of the University of Toronto research community to generate custom tables from the Census of Canada (1961-2021) and the National Household Survey (2011). The interface enables the selection of relevant variables and census geographies, providing access to data down to the dissemination area (DA) level. If you would like to know more about downloading specific datasets from CHASS, please see our [Downloading data using CHASS Canadian Census Analyser tutorial](https://mdl.library.utoronto.ca/technology/tutorials/downloading-data-using-chass-canadian-census-analyser). For this exercise, we will explore how to incorporate and visualize census data through a ArcGIS Pro's geospatial framework. For this example, we will map the percentage of people whose mother tongue is Mandarin living in the Toronto Census Metropolitan Area (CMA) by census tract (CT) based on the 2021 Census Data.
+The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.library.utoronto.ca/census/) allows members of the University of Toronto research community to generate custom tables from the Census of Canada (1961-2021) and the National Household Survey (2011). The interface enables the selection of relevant variables and census geographies, providing access to data down to the dissemination area (DA) level. If you would like to know more about downloading specific datasets from CHASS, please see our [Downloading data using CHASS Canadian Census Analyser tutorial](https://mdlutoronto.github.io/chass-extracting-downloading-data-canadian-census/). For this exercise, we will explore how to incorporate and visualize census data through a ArcGIS Pro's geospatial framework. For this example, we will map the percentage of people whose mother tongue is Mandarin living in the Toronto Census Metropolitan Area (CMA) by census tract (CT) based on the 2021 Census Data.
 
  
 
@@ -43,7 +46,7 @@ The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.librar
 2. We see two options for obtaining data, by geography or by year. Since we want Census data for 2021, click on **2021**.
     
     <img src='{{ '/assets/images/mapping_census_data_in_arcgispro_002.png' | relative_url }}' alt='CHASS homepage' title='' width='100%' height='100%' />
-3. Next, we need to download the appropriate geography - the Census Tracts (CT) of Toronto. Click on **Profile of Census Tracts**. (Note: a CT is a small area contained in a larger urban core of 50,000 persons. Individual CTs typically have populations underneath 7,500 persons. Visit the[Statistics Canada website](https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=geo013) to learn more.)
+3. Next, we need to download the appropriate geography - the Census Tracts (CT) of Toronto. Click on **Profile of Census Tracts**. (Note: a CT is a small area contained in a larger urban core of 50,000 persons. Individual CTs typically have populations underneath 7,500 persons. Visit the [Statistics Canada website](https://www12.statcan.gc.ca/census-recensement/2021/ref/dict/az/Definition-eng.cfm?ID=geo013) to learn more.)
 
     <img src='{{ '/assets/images/mapping_census_data_in_arcgispro_003.png' | relative_url }}' alt='Profile of Census Tract option for the 2021 Census on CHASS.' title='' width='100%' height='100%' />
 4. Under the Step1's "By Name" tab, **select T**and then **Toronto**from the list of available items below.
