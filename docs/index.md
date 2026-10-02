@@ -40,7 +40,7 @@ The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.librar
 ## **A. Download the census data**
 {: #download-the-census-data}
 
-1. Access [**CHASS Census Analyzer**](http://dc.chass.utoronto.ca.myaccess.library.utoronto.ca/census/)**,** either through the link provided here or by visiting the [**MDL homepage**](https://mdl.library.utoronto.ca/) and clicking on "CHASS Census Analyzer" under "Major Data Portals".
+1. Access [**CHASS Census Analyzer**](http://dc.chass.utoronto.ca.myaccess.library.utoronto.ca/census/)**,** either through the link provided here or by visiting the [**MDL homepage**](https://library.utoronto.ca/) and clicking on "CHASS Census Analyzer" under "Major Data Portals".
 
     <img src='{{ '/assets/images/mapping_census_data_in_arcgispro_001.png' | relative_url }}' alt='Map and Data Library homepage.' title='' width='100%' height='100%' />
 2. We see two options for obtaining data, by geography or by year. Since we want Census data for 2021, click on **2021**.
@@ -207,8 +207,8 @@ The [CHASS Canadian Census Analyser](http://dc.chass.utoronto.ca.myaccess.librar
 
  
 
-Congratulations! You should now have a map exhibiting census data you pulled from CHASS on your own. Make sure to visit our other tutorials if you ever want to find out more about ArcGIS Pro or other data visualization tools. For additional help, please [submit a request on the Map and Data Library website](https://mdl.library.utoronto.ca/about/contact-form).
+Congratulations! You should now have a map exhibiting census data you pulled from CHASS on your own. Make sure to visit our other tutorials if you ever want to find out more about ArcGIS Pro or other data visualization tools. For additional help, please [submit a request on the Map and Data Library website](https://library.utoronto.ca/contact-us/data-maps).
 
 <img src='{{ '/assets/images/mapping_census_data_in_arcgispro_043_1.png' | relative_url }}' alt='Final map showing native mandarin speakers per census tract in the City of Toronto.' title='' width='816' height='1056' />
 
-**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro), [CHASS Census Analyzer](https://mdlutoronto.github.io/tutorials-search/?tool=CHASS+Census+Analyzer) \| **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Searching for maps and data](https://mdlutoronto.github.io/tutorials-search/?technique=Searching+for+maps+and+data) | **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro), [CHASS Census Analyzer](https://mdlutoronto.github.io/tutorials-search/?tool=CHASS+Census+Analyzer) | **Data Format:** [Statistics](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Statistics), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
